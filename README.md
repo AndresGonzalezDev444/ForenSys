@@ -188,7 +188,7 @@ Como apoyo técnico, educativo o investigativo en:
 
 | ForenSys Vision | ForenSys Lab |
 |:---:|:---:|
-| <img src="imagenes/NOMBRE-CAPTURA-VISION.png" alt="Captura Vision" width="420" /> | <img src="imagenes/NOMBRE-CAPTURA-LAB.png" alt="Captura Lab" width="420" /> |
+| <img src="imagenes/vision_1.png" alt="Captura Vision" width="420" /> | <img src="imagenes/PanelForensysLab-Huellas.png" alt="Captura Lab" width="420" /> |
 
 ---
 
