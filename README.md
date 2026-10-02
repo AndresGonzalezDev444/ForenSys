@@ -58,7 +58,7 @@ Análisis visual, identificación y apoyo a la investigación operativa.
 </td>
 <td align="center" width="50%">
 
-<img src="imagenes/forensys-lab.png" alt="ForenSys Lab" width="150" />
+<img src="imagenes/Forensys-lab.png" alt="ForenSys Lab" width="150" />
 
 ### ForenSys Lab
 Análisis forense, investigación digital y herramientas especializadas.
