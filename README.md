@@ -230,7 +230,7 @@ ForenSys/
 <a href="https://github.com/AndresGonzalezDev444/ForenSys-Vision">Ver repositorio →</a>
 </td>
 <td align="center" width="50%">
-<img src="imagenes/forensys-lab.png" height="90" alt="ForenSys Lab" /><br/>
+<img src="imagenes/Forensys-lab.png" height="90" alt="ForenSys Lab" /><br/>
 <b>ForenSys Lab</b><br/>
 <a href="https://github.com/AndresGonzalezDev444/ForenSys-Lab">Ver repositorio →</a>
 </td>
